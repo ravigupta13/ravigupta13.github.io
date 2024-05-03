@@ -16,8 +16,8 @@ redirect_from:
 <br>My list of publications is detailed under the Research tab, and my comprehensive resume is accessible in the CV tab.
 
 <h2>Recent Updates </h2> 
-1. Our paper titled "Magnification Invariant Medical Image Analysis: A Comparison of Convolutional Networks, Vision Transformers, and Token Mixers" has been accepted in Bioimaging 2024 and won the [Best Student Paper Award](https://drive.google.com/file/d/17-C_NkOn2xRtFkSaV_MvQg69bnZ8LnlZ/view?usp=sharing).
-2. Our paper titled "WaveMixSR: Resource-efficient Neural Network for Image Super-resolution" has been accepted in WACV 2024.
+1. Our paper titled "Unsupervised Domain Adaptation for Medical Images with an Improved Combination of Losses" has been published in Bioimaging 2024 and won the [Best Student Paper Award](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1lTvxbAAAAAJ&citation_for_view=1lTvxbAAAAAJ:0EnyYjriUFMC).
+2. Our paper titled "Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification" has been published in Bioimaging 2024 and won the [Best Student Paper Award]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1lTvxbAAAAAJ&citation_for_view=1lTvxbAAAAAJ:0EnyYjriUFMC](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1lTvxbAAAAAJ&citation_for_view=1lTvxbAAAAAJ:Se3iqnhoufwC)).
 3. Our paper titled "Heterogeneous Graphs Model Spatial Relationships Between Biological Entities for Breast Cancer Diagnosis" has been accepted in the 5th MICCAI Workshop on GRaphs in biomedicAl Image anaLysis (GRAIL) 2023.
 4. Our tiny paper titled ""Resource-efficient Image Inpainting" has been accpeted in ICLR 2023.
 5. Our paper titled "“Resource-efficient Hybrid X-Formers for Vision" has been accepted in WACV 2022. 
