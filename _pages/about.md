@@ -21,9 +21,9 @@ redirect_from:
 3. Our paper titled "Few-Shot Histopathology Image Classification: Evaluating State-of-the-Art Methods and Unveiling Performance Insights" has been published in BioImaging 2024, italy.
 4. Our paper titled "Heterogeneous Graphs Model Spatial Relationships Between Biological Entities for Breast Cancer Diagnosis" has been accepted in the 5th MICCAI Workshop on GRaphs in biomedicAl Image anaLysis (GRAIL) 2023.
 5. Our paper titled "EGFR Mutation Prediction of Lung Biopsy Images Using Deep Learning" has been accpeted in Bioimaging 2023, Lisbon, Portugal.
-6. Our paper titled "Comparision of PID controller & adaptive neuro fuzzy controller for robot manipulator" has been accepted in IEEE (ICCIC) 2015. 
-7. Our paper titled "Idal: Improved Domain Adaptive Learning for Natural Images Dataset" is under review in ICLR 2024. 
+6. Our paper titled "Comparision of PID controller & adaptive neuro fuzzy controller for robot manipulator" has been published in IEEE (ICCIC) 2015. 
+7. Our paper titled "Idal: Improved Domain Adaptive Learning for Natural Images Dataset" has been published in ICLR 2024. 
 8. Our paper titled "Advancing Gene Selection in Oncology: A Fusion of Deep Learning and Sparsity for Precision Gene Selection" is under review in EMVC 2024.
-9. Our paper titled "CHATTY: Coupled Holistic Adversarial Transport Terms with Yield for Unsupervised Domain Adaptation" is under review in ICLR 2024.
-10. Our paper titled "Efficient Whole Slide Image Classification through Fisher Vector Representation" is under peer review in ECML 2024.
+9. Our paper titled "Adversarial Transport Terms with Yield for Unsupervised Domain Adaptation" has been published in ICLR 2024.
+10. Our paper titled "Efficient Whole Slide Image Classification through Fisher Vector Representation" has been published in BIBE 2024.
 
