@@ -26,13 +26,16 @@ Work experience
   
 Skills
 ======
-* Python
-* C language
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Machine Learning
 * Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* CNN, GNN
+* Transformer
+* Language
+  * Python
+  * C language
+  * MATLAB
 
 Publications
 ======
