@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Sept 2016 to Dec 2018: Assistant Professor
-  * Mumbai University
+  * Mumbai University 
   * Duties includes: Core subjects and Labs (ECE)
   
 
