@@ -3,7 +3,7 @@ title: "EGFR Mutation Prediction of Lung Biopsy Images Using Deep Learning"
 collection: publications
 permalink: /publication/EGFR_mutation
 excerpt: 'In this work, we used customized deep learning pipelines with weak supervision to identify the morphological correlates of EGFR mutation from hematoxylin and eosin-stained WSIs, in addition to detecting tumor and histologically subtyping it.'
-date: 2010-10-01
+date: 2023-02-22
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
