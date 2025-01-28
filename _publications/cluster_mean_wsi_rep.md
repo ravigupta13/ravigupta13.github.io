@@ -2,10 +2,10 @@
 title: "Clustered Patch Embeddings for Permutation-Invariant Classification of Whole Slide Images"
 collection: publications
 permalink: /publication/cluster_wsi
-excerpt: 'This study introduces a novel method for WSI classification by automating the identification and examination of the most informative patches, thus eliminating the need to process the entire slide.'
+excerpt: 'Our novel approach addresses these challenges by leveraging various encoders for intelligent data reduction and employing a different classification model to ensure robust, permutationinvariant representations of WSIs.'
 date: 2024-11-23
 venue: '2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE), Kragujevac, Serbia'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10820480'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10820477'
 
 ---
 
