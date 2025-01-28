@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/HER2_FISH_status
 excerpt: 'Our approach has two main features. Firstly, its neural architecture uses the deep structure of ResNet and the effective separation of scales of feature pyramidal network (FPN) to work with both content and style features. Secondly, it uses a combination of a novel loss function and judiciously selected existing loss functions to train the network architecture.'
 date: 2024-12-07
-venue: 'Proccedings of International Conference on Pattern Recognition (ICPR24), Kolkata, India'
+venue: '2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-78107-0_18'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
