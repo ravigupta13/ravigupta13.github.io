@@ -1,14 +1,14 @@
 ---
-title: "Classification and Morphological Analysis of DLBCL Subtypes in H\&E-Stained Slides"
+title: "Classification and Morphological Analysis of DLBCL Subtypes in H&E-Stained Slides"
 collection: publications
 permalink: /publication/dlbcl
-excerpt: 'Our novel approach addresses these challenges by leveraging various encoders for intelligent data reduction and employing a different classification model to ensure robust, permutationinvariant representations of WSIs.'
+excerpt: 'We address the challenge of automated classification of diffuse large B-cell lymphoma (DLBCL) into its two primary subtypes: activated B-cell-like (ABC) and germinal center B-cell-like (GCB)'
 date: 2024-11-23
 venue: '2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE), Kragujevac, Serbia'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2024arXiv241108531K/abstract'
 
 ---
 
-In this novel approach we addresses challenges with wsi by leveraging various encoders for intelligent data reduction and employing a different classification model to ensure robust, permutationinvariant representations of WSIs. A key innovation of our method is the ability to distill the complex information of an entire WSI into a single vector, effectively capturing the essential features needed for accurate analysis. This approach significantly enhances the computational efficiency of WSI analysis, enabling more accurate pathological assessments without the need for extensive computational resources. This breakthrough equips us with the capability to effectively address the challenges posed by large image resolutions in whole-slide imaging, paving the way for more scalable and effective utilization of WSIs in medical diagnostics and research, marking a significant advancement in the field.
+We address the challenge of automated classification of diffuse large B-cell lymphoma (DLBCL) into its two primary subtypes: activated B-cell-like (ABC) and germinal center B-cell-like (GCB). Accurate classification between these subtypes is essential for determining the appropriate therapeutic strategy, given their distinct molecular profiles and treatment responses. Our proposed deep learning model demonstrates robust performance, achieving an average area under the curve (AUC) of (87.4 pm 5.7)\% during cross-validation. It shows a high positive predictive value (PPV), highlighting its potential for clinical application, such as triaging for molecular testing. To gain biological insights, we performed an analysis of morphological features of ABC and GCB subtypes. We segmented cell nuclei using a pre-trained deep neural network and compared the statistics of geometric and color features for ABC and GCB. We found that the distributions of these features were not very different for the two subtypes, which suggests that the visual differences between them are more subtle. These results underscore the potential of our method to assist in more precise subtype classification and can contribute to improved treatment management and outcomes for patients of DLBCL. 
 
 
