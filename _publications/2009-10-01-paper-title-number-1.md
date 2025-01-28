@@ -1,5 +1,5 @@
 ---
-Adversarial Transport Terms for Unsupervised Domain Adaptation"
+title: Adversarial Transport Terms for Unsupervised Domain Adaptation"
 collection: publications
 permalink: /publication/chatty
 excerpt: 'The new technique, ATT, enhances unsupervised domain adaptation by introducing a novel transport loss that displaces classifier outputs to reduce class confusion and improve domain-invariant representations, leading to superior UDA results on benchmark datasets.'
