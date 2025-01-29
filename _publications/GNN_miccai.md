@@ -2,11 +2,10 @@
 title: "Heterogeneous Graphs Model Spatial Relationship Between Biological Entities for Breast Cancer Diagnosis"
 collection: publications
 permalink: /publication/GNN_miccai
-excerpt: 'In this paper we propose a tailored loss function to address the challenges specific to medical images. This loss
-combination not only makes the model accurate and robust but also faster in terms of training convergence.'
-date: 2024-02-19
-venue: 'Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOIMAGING, Rome, Italy'
-paperurl: 'https://www.scitepress.org/Papers/2024/123281/123281.pdf'
+excerpt: 'In this paper, we present a novel approach using a heterogeneous GNN that captures the spatial and hierarchical relations between cell and tissue graphs to enhance the extraction of useful information from histopathological images. '
+date: 2023-10-08
+venue: 'Proceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI-23)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-55088-1_9'
 
 ---
 
